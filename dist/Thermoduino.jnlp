@@ -11,8 +11,8 @@
   </resources>
   <resources>
     <j2se version="1.6+" java-vm-args="-Djava.library.path=/Users/mathieu/Downloads/pi4j-0.0.5/lib/ "  href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="Thermoduino.jar" size="22209" download="eager" />
-    <jar href="lib/pi4j-core.jar" size="184937" download="eager" />
+    <jar href="Thermoduino.jar" size="22211" download="eager" />
+    <jar href="lib/pi4j-core.jar" size="184940" download="eager" />
   </resources>
 <security>
   <all-permissions/>
